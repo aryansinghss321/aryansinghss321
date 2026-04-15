@@ -1,14 +1,30 @@
+<!-- ===================== TOP ANIMATIONS ===================== -->
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Aryan+Singh;AI+%7C+Full-Stack+Developer;Building+Real-World+AI+Products;Deep+Learning+%7C+LLMs+%7C+Next.js" />
+</p>
+
+<!-- Game Animation -->
+<p align="center">
+  <img src="https://github4life.herokuapp.com/aryansinghss321.gif?z=6" />
+</p>
+
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aryansinghss321/aryansinghss321/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 <h1 align="center">Hi 👋, I'm Aryan Singh</h1>
 <h3 align="center">🚀 M.Tech AI & ML Student | Full-Stack Developer | Deep Learning & LLM Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=700&lines=Building+Intelligent+Systems+for+Real-World+Problems;Exploring+Deep+Learning+%7C+LLMs+%7C+Web+Development;AI+%2B+Full-Stack+%7C+From+Idea+to+Deployment" alt="Typing SVG" />
-</p>
 
 ---
 
 ## 💫 About Me:
 I'm an **M.Tech student in AI & Machine Learning at Birla Institute of Technology, Mesra**, passionate about building intelligent systems and scalable full-stack applications that solve real-world problems.  
+
 Currently, I'm exploring the intersection of **Deep Learning, Large Language Models, and Web Development**, with a focus on creating practical, impactful AI products.
 
 - 🎓 M.Tech in **AI & ML** @ BIT Mesra  
@@ -19,19 +35,27 @@ Currently, I'm exploring the intersection of **Deep Learning, Large Language Mod
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryansinghs) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryansinghss321@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/aryansinghs">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:aryansinghss321@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
 ---
 
@@ -48,6 +72,23 @@ Currently, I'm exploring the intersection of **Deep Learning, Large Language Mod
 
 ---
 
+## 🧠 Current Focus
+- 🔥 Building AI-powered full-stack applications  
+- 🤖 Working with LLMs (Gemini, LLaMA, LangChain)  
+- ⚡ Exploring scalable system design  
+
+---
+
+## 🏆 Achievements
+- 📄 Research Paper: **ResNet1D-sLSTM (ICETSF 2026)**  
+- ⚽ Football Zonal Level Achievement  
+- 🎓 Class Representative (B.Tech)
+
+---
+
+## ✨ Quote
 > 🚀 “Building AI-driven solutions that create real-world impact.”
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<!-- Proudly created with Aryan's custom README -->

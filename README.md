@@ -1,8 +1,8 @@
 <!-- ===================== TOP ANIMATIONS ===================== -->
 
-<!-- Typing Animation -->
+<!-- Typing Animation (Stable Version) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Aryan+Singh;AI+%7C+Full-Stack+Developer;Building+Real-World+AI+Products;Deep+Learning+%7C+LLMs+%7C+Next.js" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Aryan+Singh;AI+%7C+Full-Stack+Developer;Deep+Learning+%7C+LLMs+%7C+Next.js" />
 </p>
 
 <!-- Snake Animation -->

@@ -5,17 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Aryan+Singh;AI+%7C+Full-Stack+Developer;Building+Real-World+AI+Products;Deep+Learning+%7C+LLMs+%7C+Next.js" />
 </p>
 
-<!-- Game Animation -->
-<p align="center">
-  <img src="https://github4life.herokuapp.com/aryansinghss321.gif?z=6" />
-</p>
-
 <!-- Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/aryansinghss321/aryansinghss321/output/github-contribution-grid-snake.svg" />
 </p>
-
----
 
 <h1 align="center">Hi 👋, I'm Aryan Singh</h1>
 <h3 align="center">🚀 M.Tech AI & ML Student | Full-Stack Developer | Deep Learning & LLM Enthusiast</h3>

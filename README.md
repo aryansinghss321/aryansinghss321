@@ -50,20 +50,9 @@ Currently, I'm exploring the intersection of **Deep Learning, Large Language Mod
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
----
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryansinghss321&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=tokyonight" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=aryansinghss321&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryansinghss321&layout=compact&theme=tokyonight&langs_count=8" width="48%" />
-</p>
-
----
 
 ## 🧠 Current Focus
 - 🔥 Building AI-powered full-stack applications  
